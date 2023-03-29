@@ -1,0 +1,16 @@
+.div_user{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.titulo{
+    background-color: aqua;
+    text-align: center;
+}
+    .imagem{
+        max-width: 200px;
+    }
+
+    
